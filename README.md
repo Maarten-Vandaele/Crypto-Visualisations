@@ -7,7 +7,7 @@ A quick visualisation tool to get the assets of your choice on one graph.
 
 ## Technologies
 
-Datareader
-matplotlib - seaborn
-pandas 
+Datareader\n
+matplotlib - seaborn\n
+pandas\n
 mpl plot
