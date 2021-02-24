@@ -13,4 +13,4 @@ matplotlib - seaborn
 
 pandas
 
-mpl plot
+mpl finance
